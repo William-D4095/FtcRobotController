@@ -113,5 +113,7 @@ android {
 }
 
 repositories {
+    maven { url = "https://mymaven.bylazar.com/releases" }
+
 }
 
